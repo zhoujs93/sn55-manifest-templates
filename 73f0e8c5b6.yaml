@@ -1,0 +1,12 @@
+close:
+  strategy: avg
+  models:
+  - path: close/optuna_k=0_pruned.joblib
+min:
+  strategy: avg
+  models:
+  - path: min/model2_quantile=20th.joblib
+max:
+  strategy: avg
+  models:
+  - path: max/model2_quantile=20th.joblib

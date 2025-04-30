@@ -1,0 +1,15 @@
+close:
+  strategy: avg
+  models:
+  - path: close/optuna_k=0_pruned.joblib
+  feature_version: legacy
+min:
+  strategy: avg
+  models:
+  - path: min/model2v3.joblib
+  feature_version: legacy
+max:
+  strategy: avg
+  models:
+  - path: max/model2v3.joblib
+  feature_version: legacy
