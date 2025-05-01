@@ -26,35 +26,35 @@
 close:
   strategy: avg
   models:
-  - path: close/optuna_k=0_pruned.joblib
+  - path: close/optuna_k=0_pruned_es=1.joblib
     weight: 1.0
 min:
   strategy: avg
   models:
-  - path: min/model2_quantile=5th.joblib
+  - path: min/model2_quantile=5th_es=1.joblib
     weight: 0.16667
-  - path: min/model2_quantile=10th.joblib
+  - path: min/model2_quantile=10th_es=1.joblib
     weight: 0.16667
-  - path: min/model2_quantile=15th.joblib
+  - path: min/model2_quantile=15th_es=1.joblib
     weight: 0.16667
-  - path: min/model2_quantile=20th.joblib
+  - path: min/model2_quantile=20th_es=1.joblib
     weight: 0.16667
-  - path: min/model2_quantile=25th.joblib
+  - path: min/model2_quantile=25th_es=1.joblib
     weight: 0.16667
-  - path: min/model2_quantile=30th.joblib
+  - path: min/model2_quantile=30th_es=1.joblib
     weight: 0.16667
 max:
   strategy: avg
   models:
-  - path: max/model2_quantile=5th.joblib
+  - path: max/model2_quantile=5th_es=1.joblib
     weight: 0.16667
-  - path: max/model2_quantile=10th.joblib
+  - path: max/model2_quantile=10th_es=1.joblib
     weight: 0.16667
-  - path: max/model2_quantile=15th.joblib
+  - path: max/model2_quantile=15th_es=1.joblib
     weight: 0.16667
-  - path: max/model2_quantile=20th.joblib
+  - path: max/model2_quantile=20th_es=1.joblib
     weight: 0.16667
-  - path: max/model2_quantile=25th.joblib
+  - path: max/model2_quantile=25th_es=1.joblib
     weight: 0.16667
-  - path: max/model2_quantile=30th.joblib
+  - path: max/model2_quantile=30th_es=1.joblib
     weight: 0.16667
