@@ -1,0 +1,67 @@
+close:
+  strategy: avg
+  models:
+  - path: close/optuna_k=0_pruned.joblib
+    weight: 0.2
+  - path: close/optuna_k=1_pruned.joblib
+    weight: 0.2
+  - path: close/optuna_k=2_pruned.joblib
+    weight: 0.2
+  - path: close/optuna_k=3_pruned.joblib
+    weight: 0.2
+  - path: close/optuna_k=4_pruned.joblib
+    weight: 0.2
+min:
+  strategy: avg
+  models:
+  - path: min/alpha_ensemble/optuna_pruned_k=0_quantile=5_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=1_quantile=5_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=0_quantile=10_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=1_quantile=10_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=0_quantile=15_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=1_quantile=15_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=0_quantile=20_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=1_quantile=20_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=0_quantile=25_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=1_quantile=25_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=0_quantile=30_es=2.joblib
+    weight: 0.08333333333333331
+  - path: min/alpha_ensemble/optuna_pruned_k=1_quantile=30_es=2.joblib
+    weight: 0.08333333333333331
+max:
+  strategy: avg
+  models:
+  - path: max/alpha_ensemble/optuna_pruned_k=0_quantile=95_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=1_quantile=95_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=0_quantile=90_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=1_quantile=90_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=0_quantile=85_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=1_quantile=85_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=0_quantile=80_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=1_quantile=80_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=0_quantile=75_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=1_quantile=75_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=0_quantile=70_es=2.joblib
+    weight: 0.08333333333333331
+  - path: max/alpha_ensemble/optuna_pruned_k=1_quantile=70_es=2.joblib
+    weight: 0.08333333333333331
