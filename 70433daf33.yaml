@@ -1,25 +1,25 @@
 close:
   strategy: avg
   models:
-  - path: close/es=3d_20250506/optuna_k=0_pruned_seed=25.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=25.joblib
     weight: 0.10000000000000002
-  - path: close/es=3d_20250506/optuna_k=0_pruned_seed=30.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=30.joblib
     weight: 0.10000000000000002
-  - path: close/es=3d_20250506/optuna_k=0_pruned_seed=35.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=35.joblib
     weight: 0.10000000000000002
-  - path: close/es=3d_20250506/optuna_k=0_pruned_seed=45.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=45.joblib
     weight: 0.10000000000000002
-  - path: close/es=3d_20250506/optuna_k=0_pruned_seed=888.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=888.joblib
     weight: 0.10000000000000002
-  - path: close/es=3d_20250506/optuna_k=1_pruned_seed=25.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=25.joblib
     weight: 0.10000000000000002
-  - path: close/es=3d_20250506/optuna_k=1_pruned_seed=30.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=30.joblib
     weight: 0.10000000000000002
-  - path: close/es=3d_20250506/optuna_k=1_pruned_seed=35.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=35.joblib
     weight: 0.10000000000000002
-  - path: close/es=3d_20250506/optuna_k=1_pruned_seed=45.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=45.joblib
     weight: 0.10000000000000002
-  - path: close/es=3d_20250506/optuna_k=1_pruned_seed=888.joblib
+  - path: close/es=3d_20250506_xgb/optuna_0_seed=888.joblib
     weight: 0.10000000000000002
 min:
   strategy: avg
