@@ -1,0 +1,27 @@
+close:
+  strategy: avg
+  models:
+  - path: close/es=3d_20250506/optuna_k=0_pruned_seed=35.joblib
+    weight: 0.3333333333333333
+  - path: close/es=3d_20250506/optuna_k=0_pruned_seed=45.joblib
+    weight: 0.3333333333333333
+  - path: close/es=3d_20250506/optuna_k=0_pruned_seed=888.joblib
+    weight: 0.3333333333333333
+min:
+  strategy: avg
+  models:
+  - path: min/es=3d_20250506_yfreq=1s/model2_quantile=3th_seed=35.joblib
+    weight: 0.3333333333333333
+  - path: min/es=3d_20250506_yfreq=1s/model2_quantile=3th_seed=45.joblib
+    weight: 0.3333333333333333
+  - path: min/es=3d_20250506_yfreq=1s/model2_quantile=3th_seed=888.joblib
+    weight: 0.3333333333333333
+max:
+  strategy: avg
+  models:
+  - path: max/es=3d_20250506_yfreq=1s/k=model2_quantile=3th_seed=35.joblib
+    weight: 0.3333333333333333
+  - path: max/es=3d_20250506_yfreq=1s/k=model2_quantile=3th_seed=45.joblib
+    weight: 0.3333333333333333
+  - path: max/es=3d_20250506_yfreq=1s/k=model2_quantile=3th_seed=888.joblib
+    weight: 0.3333333333333333
