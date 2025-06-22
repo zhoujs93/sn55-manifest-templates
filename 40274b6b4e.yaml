@@ -11,12 +11,12 @@ close:
 min:
   strategy: avg
   models:
-  - path: min/es=7d_20250619_feats=core_features/mapie=45_q-low=45_q-upper=55.joblib
+  - path: min/es=7d_20250622_feats=core_features/mapie=5_q-low=33_q-upper=67.joblib
     weight: 1.0
 max:
   strategy: avg
   models:
-  - path: max/es=7d_20250619_feats=core_features/mapie=45_q-low=45_q-upper=55.joblib
+  - path: max/es=7d_20250622_feats=core_features/mapie=5_q-low=33_q-upper=67.joblib
     weight: 1.0
 mid:
   strategy: avg
