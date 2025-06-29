@@ -1,9 +1,60 @@
 {
+    "abd328ecba.yaml": "e7-d20250629-fcr-m5-l33-u67",
+    "c64311bc15.yaml": "e7-d20250629-fno-m5-l33-u67",
+    "5357815c6b.yaml": "e7-d20250629-mm-fcr-m5-l33-u67",
+    "f2c9693e3b.yaml": "e7-d20250629-mm-fno-m5-l33-u67",
+    "434a292b42.yaml": "e14-c7-d20250629-fcr-m5-l33-u67",
+    "6aaec263a7.yaml": "e14-c7-d20250629-fno-m5-l33-u67",
+    "4b9c19a73e.yaml": "e14-c7-d20250629-mm-fcr-m5-l33-u67",
+    "5f033904d6.yaml": "e14-c7-d20250629-mm-fno-m5-l33-u67",
 
+    "76034862f3.yaml": "e7-d20250629-fcr-m30-l25-u75",
+    "13a20a2f24.yaml": "e7-d20250629-fno-m30-l25-u75",
+    "880e32d0f2.yaml": "e7-d20250629-mm-fcr-m30-l25-u75",
+    "f3dca7fba1.yaml": "e7-d20250629-mm-fno-m30-l25-u75",
+    "81012d5ff6.yaml": "e14-c7-d20250629-fcr-m30-l25-u75",
+    "83358c62e2.yaml": "e14-c7-d20250629-fno-m30-l25-u75",
+    "541997e99c.yaml": "e14-c7-d20250629-mm-fcr-m30-l25-u75",
+    "55b8c2b799.yaml": "e14-c7-d20250629-mm-fno-m30-l25-u75",
 
-# ---------------- label from 1 second data ------------------------------------
-    "07ed6ec4d5.yaml": "e7-d20250628-fcr-m5-l33-u67",
-    "b9007e21aa.yaml": "e7-d20250628-fno-m5-l33-u67",
+    "2b31f94001.yaml": "e7-d20250629-fcr-m45-l45-u55",
+    "4d7b5388dd.yaml": "e7-d20250629-fno-m45-l45-u55",
+    "ae03a71175.yaml": "e7-d20250629-mm-fcr-m45-l45-u55",
+    "efd6463b2f.yaml": "e7-d20250629-mm-fno-m45-l45-u55",
+    "8b684b35e8.yaml": "e14-c7-d20250629-fcr-m45-l45-u55",
+    "82ebd194a0.yaml": "e14-c7-d20250629-fno-m45-l45-u55",
+    "85bedf43c1.yaml": "e14-c7-d20250629-mm-fcr-m45-l45-u55",
+    "ba6f6f1f2c.yaml": "e14-c7-d20250629-mm-fno-m45-l45-u55",
+
+    "993928fab0.yaml": "e7-d20250629-fcr-m70-l35-u65",
+    "b595a7c20d.yaml": "e7-d20250629-fno-m70-l35-u65",
+    "09d27b7fe7.yaml": "e7-d20250629-mm-fcr-m70-l35-u65",
+    "4c754e9bab.yaml": "e7-d20250629-mm-fno-m70-l35-u65",
+    "45e6eebdef.yaml": "e14-c7-d20250629-fcr-m70-l35-u65",
+    "f0c0e923c1.yaml": "e14-c7-d20250629-fno-m70-l35-u65",
+    "8f9c2b6d18.yaml": "e14-c7-d20250629-mm-fcr-m70-l35-u65",
+    "062aecab80.yaml": "e14-c7-d20250629-mm-fno-m70-l35-u65",
+
+    "81741f6050.yaml": "e7-d20250629-fcr-m72-l32-u86",
+    "f813614685.yaml": "e7-d20250629-fno-m72-l32-u86",
+    "90974b10b4.yaml": "e7-d20250629-mm-fcr-m72-l32-u86",
+    "fcbaef5a7b.yaml": "e7-d20250629-mm-fno-m72-l32-u86",
+    "5672d6324a.yaml": "e14-c7-d20250629-fcr-m72-l32-u86",
+    "3234bf4e23.yaml": "e14-c7-d20250629-fno-m72-l32-u86",
+    "2f84333e2b.yaml": "e14-c7-d20250629-mm-fcr-m72-l32-u86",
+    "41360e1dca.yaml": "e14-c7-d20250629-mm-fno-m72-l32-u86",
+    
+    "39438582d2.yaml": "e7-d20250629-fcr-m87-l34-u66",
+    "c2b9a108ef.yaml": "e7-d20250629-fno-m87-l34-u66",
+    "a04df2cba6.yaml": "e7-d20250629-mm-fcr-m87-l34-u66",
+    "2f3402379d.yaml": "e7-d20250629-mm-fno-m87-l34-u66",
+    "771aad51c1.yaml": "e14-c7-d20250629-fcr-m87-l34-u66",
+    "1dd81feb83.yaml": "e14-c7-d20250629-fno-m87-l34-u66",
+    "9daa232fdc.yaml": "e14-c7-d20250629-mm-fcr-m87-l34-u66",
+    "d010389596.yaml": "e14-c7-d20250629-mm-fno-m87-l34-u66",
+
+#    "07ed6ec4d5.yaml": "e7-d20250628-fcr-m5-l33-u67",
+#    "b9007e21aa.yaml": "e7-d20250628-fno-m5-l33-u67",
 
     "997a4da903.yaml": "e7-d20250628-fcr-m30-l25-u75",
     "5a80d43767.yaml": "e7-d20250628-fno-m30-l25-u75",
@@ -13,9 +64,6 @@
 
     "2501670745.yaml": "e7-d20250628-fcr-m70-l35-u65",
     "5cf7a7b4dc.yaml": "e7-d20250628-fno-m70-l35-u65",
-
-    "2a307fb9cf.yaml": "e7-d20250628-fcr-m72-l32-u86",
-    "dbe6799619.yaml": "e7-d20250628-fno-m72-l32-u86",
 
     "0a186b3ce0.yaml": "e7-d20250628-fcr-m87-l34-u66",
     "2609699927.yaml": "e7-d20250628-fno-m87-l34-u66",
